@@ -1,6 +1,6 @@
 [![MasterHead](https://drive.google.com/file/d/1_9uNW2EAfF3X3jwLF4AAZLW3oKnZ0Gg3/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm Farhana</h1>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fgirl-coding&psig=AOvVaw1Fs7UYjJfiDX-mqRUGZ4om&ust=1666227415239000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCct_2K6_oCFQAAAAAdAAAAABAE"/>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fgirl-coding&psig=AOvVaw1Fs7UYjJfiDX-mqRUGZ4om&ust=1666227415239000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCct_2K6_oCFQAAAAAdAAAAABAE" />
 
 - 🌱 I’m currently learning **React, JavaScript and DSA**
 
