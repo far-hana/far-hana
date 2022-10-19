@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1_9uNW2EAfF3X3jwLF4AAZLW3oKnZ0Gg3/view?usp=sharing)]
+[![MasterHead](Banner.png)]
 
 <h1 align="center">Hi 👋, I'm Farhana</h1>
 
