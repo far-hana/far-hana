@@ -1,6 +1,6 @@
-[![MasterHead](Banner.png)]
+[![Banner](Banner.png)]
 
-<h1 align="center">Hi 👋, I'm Farhana</h1>
+<h1 align="center">Hi 👋, I'm Farhana</h1><br/>
 
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fgirl-coding&psig=AOvVaw1Fs7UYjJfiDX-mqRUGZ4om&ust=1666227415239000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCct_2K6_oCFQAAAAAdAAAAABAE" />
 
