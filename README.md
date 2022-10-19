@@ -1,8 +1,5 @@
-[![Banner](Banner.png)]
-
 <h1 align="center">Hi 👋, I'm Farhana</h1><br/>
-
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fgirl-coding&psig=AOvVaw1Fs7UYjJfiDX-mqRUGZ4om&ust=1666227415239000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCct_2K6_oCFQAAAAAdAAAAABAE" />
+<img src="https://github.com/far-hana/far-hana/blob/Banner/Banner.png?raw=true" alt="Banner which says Farhana Yasmeen- Passionate Coder and Coffee Lover" height="400" width="100%">
 
 - 🌱 I’m currently learning **React, JavaScript and DSA**
 
